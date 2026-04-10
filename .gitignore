@@ -1,0 +1,15 @@
+.env
+
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Backend
+backend/bin
+
+# OS/editor
+.DS_Store
+.vscode
+TEMP.md
+
+TASK.md
